@@ -1,0 +1,180 @@
+1) What is your age?,2) How do you identify your gender?,3) What is your marital status?,4) How would you describe the size of your social network?,"5) How would you rate the level of support and closeness you feel from your family members?
+[ 1.Low 2.Moderate 3.High 4.Very high ]",6) To what extent do you experience feelings of loneliness?,7) How readily available is social support for you in times of need?,"8) How would you rate your overall emotional well-being and happiness levels?
+[ 1.Very Low 2.Low 3.Moderate 4.High ]","9) How often do you engage in social interactions with friends, family, or acquaintances?",10) To what extent do you feel a sense of belongingness and connectedness to others?,"11) How would you rate the support you receive from others?
+[ 1.Very Low 2.Low 3.Moderate 4.High ]","12) Overall, how satisfied are you with your life circumstances?",13) How much trust do you have in your close relationships?,14) How supportive are your friends in times of need?,15) How involved are you in community activities or organizations?,16) How would you rate your own social skills in interpersonal interactions?
+18-25,Female,Single,Moderate (10-50 people),4,Sometimes,Readily available,3,Once a week,Moderately,3,Satisfied,Very little,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Moderately available,3,Several times a week,Somewhat,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Readily available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Large (51-100 people),4,Frequently,Moderately available,4,Several times a week,Somewhat,2,Satisfied,A great deal,Somewhat supportive,Minimally involved,Average
+18-25,Female,Single,Very large (more than 100 people),4,Frequently,Somewhat available,1,Daily,Moderately,1,Dissatisfied,Very little,Somewhat supportive,Moderately involved,Very poor
+18-25,Female,Single,Large (51-100 people),3,Occasionally,Somewhat available,3,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),3,Sometimes,Moderately available,3,Several times a week,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Moderately available,3,Once a week,Strongly,2,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Very poor
+18-25,Female,Single,Moderate (10-50 people),4,Sometimes,Moderately available,3,Rarely,Moderately,3,Satisfied,Some,Moderately supportive,Minimally involved,Average
+18-25,Prefer not to say,In a committed relationship,Very large (more than 100 people),4,Frequently,Not available at all,4,Daily,Moderately,1,Very satisfied,A great deal,Extremely supportive,Minimally involved,Very poor
+18-25,Male,Single,Very large (more than 100 people),3,Frequently,Not available at all,3,Several times a week,Moderately,3,Satisfied,A great deal,Not supportive,Minimally involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Several times a week,Somewhat,2,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Frequently,Moderately available,3,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),1,Sometimes,Moderately available,2,Rarely,Somewhat,3,Dissatisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),2,Occasionally,Moderately available,3,Daily,Strongly,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Frequently,Somewhat available,2,Several times a week,Moderately,2,Dissatisfied,Some,Somewhat supportive,Minimally involved,Below average
+18-25,Male,Single,Small (fewer than 10 people),3,Occasionally,Moderately available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Rarely or never,Moderately available,3,Rarely,Moderately,3,Satisfied,A great deal,Moderately supportive,Actively involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Occasionally,Not available at all,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,In a committed relationship,Very large (more than 100 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Very large (more than 100 people),4,Sometimes,Moderately available,4,Several times a week,Strongly,4,Very satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),3,Rarely or never,Readily available,2,Several times a week,Somewhat,3,Satisfied,Some,Somewhat supportive,Actively involved,Above average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Readily available,3,Several times a week,Somewhat,3,Very dissatisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),2,Sometimes,Somewhat available,2,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Moderate (10-50 people),2,Rarely or never,Moderately available,3,Several times a week,Moderately,4,Satisfied,A great deal,Extremely supportive,Actively involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Rarely or never,Moderately available,3,Daily,Somewhat,3,Satisfied,Some,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Large (51-100 people),3,Occasionally,Not available at all,2,Several times a week,Somewhat,1,Very satisfied,A great deal,Moderately supportive,Moderately involved,Above average
+18-25,Female,Single,Small (fewer than 10 people),4,Rarely or never,Readily available,4,Daily,Moderately,1,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Moderately available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Occasionally,Somewhat available,3,Several times a week,Moderately,2,Dissatisfied,A great deal,Extremely supportive,Not involved at all,Above average
+18-25,Male,Single,Moderate (10-50 people),3,Rarely or never,Moderately available,3,Daily,Moderately,3,Satisfied,A great deal,Somewhat supportive,Actively involved,Above average
+18-25,Male,Single,Very large (more than 100 people),4,Occasionally,Readily available,4,Several times a week,Strongly,4,Very satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Moderate (10-50 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,2,Satisfied,A moderate amount,Moderately supportive,Actively involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Rarely or never,Somewhat available,4,Rarely,Somewhat,3,Satisfied,Some,Somewhat supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Rarely or never,Not available at all,4,Once a week,Somewhat,1,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),2,Rarely or never,Moderately available,3,Several times a week,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Very large (more than 100 people),3,Sometimes,Somewhat available,3,Daily,Strongly,3,Dissatisfied,A moderate amount,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Once a week,Somewhat,3,Dissatisfied,A moderate amount,Somewhat supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Occasionally,Readily available,3,Daily,Moderately,4,Very satisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Rarely or never,Not available at all,3,Several times a week,Somewhat,3,Dissatisfied,A moderate amount,Moderately supportive,Not involved at all,Average
+18-25,Male,Single,Small (fewer than 10 people),3,Occasionally,Somewhat available,3,Once a week,Somewhat,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,Single,Very large (more than 100 people),4,Occasionally,Moderately available,3,Daily,Moderately,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Several times a week,Moderately,2,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Rarely or never,Readily available,3,Daily,Moderately,3,Satisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),3,Occasionally,Somewhat available,3,Daily,Somewhat,2,Dissatisfied,Very little,Somewhat supportive,Not involved at all,Below average
+18-25,Male,Single,Moderate (10-50 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Above average
+18-25,Female,Single,Large (51-100 people),3,Rarely or never,Somewhat available,4,Once a week,Somewhat,2,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),4,Rarely or never,Readily available,4,Daily,Strongly,4,Very satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Moderately available,4,Several times a week,Moderately,4,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),3,Sometimes,Moderately available,3,Several times a week,Moderately,3,Satisfied,Some,Moderately supportive,Minimally involved,Below average
+18-25,Male,In a committed relationship,Moderate (10-50 people),2,Frequently,Somewhat available,1,Rarely,Somewhat,2,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Large (51-100 people),4,Frequently,Somewhat available,2,Daily,Moderately,2,Satisfied,A moderate amount,Somewhat supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Moderately available,3,Once a week,Strongly,3,Satisfied,A great deal,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Sometimes,Moderately available,3,Once a week,Somewhat,3,Dissatisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),4,Rarely or never,Moderately available,3,Several times a week,Moderately,3,Very satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Rarely or never,Somewhat available,4,Daily,Moderately,3,Satisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Somewhat available,4,Rarely,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Sometimes,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,In a committed relationship,Very large (more than 100 people),4,Rarely or never,Readily available,4,Daily,Moderately,3,Very satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Large (51-100 people),4,Sometimes,Readily available,4,Daily,Strongly,4,Satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Small (fewer than 10 people),3,Rarely or never,Moderately available,3,Rarely,Somewhat,2,Satisfied,Some,Somewhat supportive,Minimally involved,Below average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Moderately available,3,Once a week,Somewhat,2,Satisfied,A moderate amount,Not supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Frequently,Not available at all,1,Rarely,Not at all,1,Very dissatisfied,Very little,Somewhat supportive,Not involved at all,Very poor
+18-25,Male,In a committed relationship,Small (fewer than 10 people),2,Frequently,Somewhat available,2,Rarely,Somewhat,2,Dissatisfied,A great deal,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Occasionally,Readily available,3,Daily,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Above average
+18-25,Male,Single,Very large (more than 100 people),4,Rarely or never,Readily available,4,Daily,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Somewhat available,4,Daily,Somewhat,2,Dissatisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,In a committed relationship,Moderate (10-50 people),4,Rarely or never,Readily available,4,Daily,Strongly,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Readily available,3,Daily,Moderately,3,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Occasionally,Moderately available,4,Daily,Strongly,4,Very satisfied,A great deal,Extremely supportive,Moderately involved,Below average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Moderately available,3,Several times a week,Moderately,3,Satisfied,A great deal,Moderately supportive,Moderately involved,Average
+26-35,Female,Married,Moderate (10-50 people),3,Sometimes,Somewhat available,4,Rarely,Somewhat,3,Satisfied,A moderate amount,Somewhat supportive,Minimally involved,Average
+18-25,Female,Single,Large (51-100 people),3,Sometimes,Moderately available,3,Once a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),2,Occasionally,Moderately available,3,Several times a week,Strongly,3,Satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Very large (more than 100 people),4,Sometimes,Somewhat available,3,Rarely,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Below average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Moderately available,3,Rarely,Moderately,3,Dissatisfied,A moderate amount,Moderately supportive,Minimally involved,Average
+18-25,Female,Single,Large (51-100 people),4,Rarely or never,Readily available,3,Once a week,Moderately,3,Satisfied,A moderate amount,Extremely supportive,Actively involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Sometimes,Moderately available,3,Once a week,Moderately,3,Satisfied,A moderate amount,Somewhat supportive,Moderately involved,Average
+18-25,Male,Single,Large (51-100 people),4,Sometimes,Readily available,3,Daily,Moderately,3,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),2,Occasionally,Somewhat available,3,Once a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Average
+18-25,Male,Single,Small (fewer than 10 people),3,Occasionally,Moderately available,3,Daily,Moderately,3,Satisfied,A moderate amount,Extremely supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Moderately available,3,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Somewhat available,3,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Above average
+18-25,Male,Single,Small (fewer than 10 people),3,Rarely or never,Readily available,3,Daily,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Moderately available,3,Daily,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Above average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Moderately available,4,Daily,Somewhat,2,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Somewhat available,3,Daily,Moderately,3,Satisfied,A great deal,Moderately supportive,Moderately involved,Above average
+18-25,Female,Single,Moderate (10-50 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,4,Satisfied,Some,Moderately supportive,Minimally involved,Above average
+18-25,Female,In a committed relationship,Small (fewer than 10 people),2,Sometimes,Moderately available,3,Once a week,Moderately,3,Satisfied,A great deal,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Large (51-100 people),1,Frequently,Somewhat available,2,Rarely,Somewhat,3,Dissatisfied,A great deal,Extremely supportive,Moderately involved,Above average
+18-25,Female,Single,Very large (more than 100 people),4,Occasionally,Somewhat available,3,Daily,Somewhat,4,Satisfied,A moderate amount,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Moderate (10-50 people),3,Frequently,Moderately available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,In a committed relationship,Moderate (10-50 people),3,Sometimes,Moderately available,3,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Above average
+46 and above,Male,Married,Large (51-100 people),3,Sometimes,Moderately available,3,Rarely,Somewhat,3,Satisfied,A great deal,Extremely supportive,Actively involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Sometimes,Moderately available,3,Several times a week,Moderately,2,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Very large (more than 100 people),3,Occasionally,Somewhat available,3,Several times a week,Moderately,2,Satisfied,A great deal,Not supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Somewhat available,3,Several times a week,Somewhat,3,Dissatisfied,A great deal,Moderately supportive,Actively involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Somewhat available,3,Rarely,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+26-35,Female,Married,Moderate (10-50 people),4,Sometimes,Somewhat available,4,Several times a week,Strongly,3,Very satisfied,A great deal,Moderately supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Sometimes,Somewhat available,2,Rarely,Somewhat,3,Dissatisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+46 and above,Male,Married,Small (fewer than 10 people),4,Occasionally,Readily available,4,Once a week,Moderately,3,Very satisfied,A great deal,Extremely supportive,Minimally involved,Above average
+18-25,Male,Single,Small (fewer than 10 people),3,Sometimes,Moderately available,3,Several times a week,Somewhat,4,Dissatisfied,A moderate amount,Extremely supportive,Not involved at all,Below average
+18-25,Female,Single,Small (fewer than 10 people),2,Rarely or never,Readily available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Above average
+46 and above,Male,Married,Small (fewer than 10 people),2,Frequently,Moderately available,3,Rarely,Not at all,3,Dissatisfied,A moderate amount,Moderately supportive,Minimally involved,Average
+46 and above,Male,Married,Moderate (10-50 people),4,Rarely or never,Moderately available,4,Once a week,Moderately,3,Satisfied,A moderate amount,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),2,Sometimes,Somewhat available,3,Rarely,Moderately,2,Satisfied,Some,Somewhat supportive,Not involved at all,Average
+18-25,Male,Single,Very large (more than 100 people),4,Sometimes,Not available at all,2,Daily,Not at all,2,Satisfied,Some,Somewhat supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Once a week,Moderately,3,Satisfied,A moderate amount,Extremely supportive,Minimally involved,Average
+18-25,Female,Single,Small (fewer than 10 people),2,Occasionally,Somewhat available,2,Several times a week,Somewhat,2,Satisfied,A moderate amount,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Large (51-100 people),4,Sometimes,Readily available,3,Daily,Strongly,4,Satisfied,A great deal,Extremely supportive,Moderately involved,Above average
+18-25,Male,Single,Large (51-100 people),4,Rarely or never,Readily available,4,Daily,Somewhat,4,Satisfied,A great deal,Moderately supportive,Not involved at all,Below average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Moderately available,3,Several times a week,Moderately,3,Very satisfied,A moderate amount,Extremely supportive,Minimally involved,Below average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,2,Several times a week,Somewhat,2,Dissatisfied,Some,Somewhat supportive,Moderately involved,Below average
+18-25,Female,Single,Moderate (10-50 people),2,Occasionally,Somewhat available,3,Once a week,Somewhat,3,Satisfied,Very little,Somewhat supportive,Minimally involved,Average
+18-25,Male,Single,Very large (more than 100 people),3,Rarely or never,Readily available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Large (51-100 people),4,Occasionally,Moderately available,3,Daily,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Above average
+18-25,Female,Single,Large (51-100 people),4,Sometimes,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,Some,Somewhat supportive,Moderately involved,Below average
+18-25,Female,Single,Large (51-100 people),4,Occasionally,Readily available,4,Daily,Strongly,3,Satisfied,Some,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Moderately available,3,Daily,Moderately,3,Satisfied,A moderate amount,Extremely supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Sometimes,Somewhat available,3,Once a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Sometimes,Moderately available,3,Once a week,Somewhat,3,Satisfied,Very little,Somewhat supportive,Minimally involved,Above average
+18-25,Female,Single,Moderate (10-50 people),3,Rarely or never,Moderately available,3,Daily,Strongly,2,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Daily,Moderately,3,Satisfied,A moderate amount,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Somewhat available,3,Once a week,Strongly,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Occasionally,Not available at all,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,In a committed relationship,Very large (more than 100 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Very large (more than 100 people),4,Sometimes,Moderately available,4,Several times a week,Strongly,4,Very satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),3,Rarely or never,Readily available,2,Several times a week,Somewhat,3,Satisfied,Some,Somewhat supportive,Actively involved,Above average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Readily available,3,Several times a week,Somewhat,3,Very dissatisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),2,Sometimes,Somewhat available,2,Several times a week,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Moderate (10-50 people),2,Rarely or never,Moderately available,3,Several times a week,Moderately,4,Satisfied,A great deal,Extremely supportive,Actively involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Rarely or never,Moderately available,3,Daily,Somewhat,3,Satisfied,Some,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Large (51-100 people),3,Occasionally,Not available at all,2,Several times a week,Somewhat,1,Very satisfied,A great deal,Moderately supportive,Moderately involved,Above average
+18-25,Female,Single,Small (fewer than 10 people),4,Rarely or never,Readily available,4,Daily,Moderately,1,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Moderately available,3,Several times a week,Moderately,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Occasionally,Somewhat available,3,Several times a week,Moderately,2,Dissatisfied,A great deal,Extremely supportive,Not involved at all,Above average
+18-25,Male,Single,Moderate (10-50 people),3,Rarely or never,Moderately available,3,Daily,Moderately,3,Satisfied,A great deal,Somewhat supportive,Actively involved,Above average
+18-25,Male,Single,Very large (more than 100 people),4,Occasionally,Readily available,4,Several times a week,Strongly,4,Very satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Moderate (10-50 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,2,Satisfied,A moderate amount,Moderately supportive,Actively involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Rarely or never,Somewhat available,4,Rarely,Somewhat,3,Satisfied,Some,Somewhat supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Rarely or never,Not available at all,4,Once a week,Somewhat,1,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),2,Rarely or never,Moderately available,3,Several times a week,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Very large (more than 100 people),3,Sometimes,Somewhat available,3,Daily,Strongly,3,Dissatisfied,A moderate amount,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Once a week,Somewhat,3,Dissatisfied,A moderate amount,Somewhat supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Occasionally,Readily available,3,Daily,Moderately,4,Very satisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Small (fewer than 10 people),4,Rarely or never,Not available at all,3,Several times a week,Somewhat,3,Dissatisfied,A moderate amount,Moderately supportive,Not involved at all,Average
+18-25,Male,Single,Small (fewer than 10 people),3,Occasionally,Somewhat available,3,Once a week,Somewhat,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,Single,Very large (more than 100 people),4,Occasionally,Moderately available,3,Daily,Moderately,3,Satisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Somewhat available,3,Several times a week,Moderately,2,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Rarely or never,Readily available,3,Daily,Moderately,3,Satisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),3,Occasionally,Somewhat available,3,Daily,Somewhat,2,Dissatisfied,Very little,Somewhat supportive,Not involved at all,Below average
+18-25,Male,Single,Moderate (10-50 people),4,Occasionally,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Above average
+18-25,Female,Single,Large (51-100 people),3,Rarely or never,Somewhat available,4,Once a week,Somewhat,2,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),4,Rarely or never,Readily available,4,Daily,Strongly,4,Very satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Moderately available,4,Several times a week,Moderately,4,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),3,Sometimes,Moderately available,3,Several times a week,Moderately,3,Satisfied,Some,Moderately supportive,Minimally involved,Below average
+18-25,Male,In a committed relationship,Moderate (10-50 people),2,Frequently,Somewhat available,1,Rarely,Somewhat,2,Satisfied,A moderate amount,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Large (51-100 people),4,Frequently,Somewhat available,2,Daily,Moderately,2,Satisfied,A moderate amount,Somewhat supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Moderately available,3,Once a week,Strongly,3,Satisfied,A great deal,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Sometimes,Moderately available,3,Once a week,Somewhat,3,Dissatisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Very large (more than 100 people),4,Rarely or never,Moderately available,3,Several times a week,Moderately,3,Very satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),4,Rarely or never,Somewhat available,4,Daily,Moderately,3,Satisfied,A great deal,Moderately supportive,Moderately involved,Average
+18-25,Female,Single,Small (fewer than 10 people),4,Occasionally,Somewhat available,4,Rarely,Moderately,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Male,Single,Moderate (10-50 people),4,Sometimes,Somewhat available,3,Several times a week,Somewhat,3,Satisfied,Some,Moderately supportive,Moderately involved,Average
+18-25,Male,In a committed relationship,Very large (more than 100 people),4,Rarely or never,Readily available,4,Daily,Moderately,3,Very satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Large (51-100 people),4,Sometimes,Readily available,4,Daily,Strongly,4,Satisfied,A great deal,Extremely supportive,Actively involved,Above average
+18-25,Female,Single,Small (fewer than 10 people),3,Rarely or never,Moderately available,3,Rarely,Somewhat,2,Satisfied,Some,Somewhat supportive,Minimally involved,Below average
+18-25,Female,Single,Moderate (10-50 people),3,Sometimes,Moderately available,3,Once a week,Somewhat,2,Satisfied,A moderate amount,Not supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Frequently,Not available at all,1,Rarely,Not at all,1,Very dissatisfied,Very little,Somewhat supportive,Not involved at all,Very poor
+18-25,Male,In a committed relationship,Small (fewer than 10 people),2,Frequently,Somewhat available,2,Rarely,Somewhat,2,Dissatisfied,A great deal,Moderately supportive,Minimally involved,Average
+18-25,Male,Single,Small (fewer than 10 people),2,Occasionally,Readily available,3,Daily,Moderately,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Above average
+18-25,Male,Single,Very large (more than 100 people),4,Rarely or never,Readily available,4,Daily,Somewhat,3,Satisfied,A moderate amount,Moderately supportive,Actively involved,Average
+18-25,Male,Single,Moderate (10-50 people),3,Occasionally,Somewhat available,4,Daily,Somewhat,2,Dissatisfied,A great deal,Extremely supportive,Minimally involved,Average
+18-25,Male,In a committed relationship,Moderate (10-50 people),4,Rarely or never,Readily available,4,Daily,Strongly,3,Satisfied,A great deal,Extremely supportive,Moderately involved,Average
+18-25,Female,Single,Moderate (10-50 people),3,Occasionally,Readily available,3,Daily,Moderately,3,Satisfied,Some,Moderately supportive,Moderately involved,Average
